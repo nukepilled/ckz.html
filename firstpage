@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<title>Webpage for Cool Katz</title>
+
+<font color="white">
+  <center><h1>Webpage for Cool Katz</h1></center>
+    <center><div>Bc ur a cool katz babee</div></center>
+
+<center><img src=https://i.pinimg.com/564x/3b/6a/d9/3b6ad93de7650b5720d55fbef63b45ad.jpg height="200 "></center>
+<style> 
+body {
+    background-image:url('https://i.pinimg.com/originals/24/9e/19/249e19fe7b2a67f8e59e4d604c4f818d.jpg'); 
+}
+</style>
+<style>
+.borderexample {
+    border-width:1px;
+    border-style:solid;
+    border-color:#FFFFFF;
+    
+} 
+</style>
+<p class="borderexample">
+<fontcolor="white"></fontcolor>
+ If you're a cool guy, you BETTER stay on this website. Or Else. Maybe I'll take your IP, maybe I'll send you a nice gift, you'll never know! Can't be sure ;D
+ <br>
+<center><img src="https://i.pinimg.com/474x/06/0c/e7/060ce79eeda50461b24951a386e28ded.jpg" height="200"></center>
+<center> *You if you don't head my warning* </center>
+<br><br><br>
+<center> <img src="https://i.pinimg.com/474x/b5/41/51/b54151e44ec439b2ab90c1afb060df1a.jpg" height="200" </center>
+
+<div id="choices">
+  <div class="choice">
+    <div class="result">
+      <div class="bar" data-choice="1"></div>
+    </div>
+    <div class="label">
+      <p>Do you like Slendeman????</p>
+      <button data-choice="1">YES!!!! >:3</button>
+    </div>
+  </div>
+  <div class="choice">
+    <div class="result">
+      <div class="bar" data-choice="2"></div>
+    </div>
+    <div class="label">
+      <p></p>
+      <button data-choice="2">NOOOOOO!!! >:( </button>
+    </div>
+  </div>
+  <div class="choice">
+    <div class="result">
+      <div class="bar" data-choice="3"></div>
+    </div>
+    </div>
+
+<h1><a href="http://tpcg.io/2FACPP">get a neopet :3 :3</a></h1>
